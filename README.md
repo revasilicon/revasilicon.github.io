@@ -4,7 +4,7 @@
 
 ## 🛠️ Technical Stack
 
-* **Backend:** Node.js, Express.js, Core PHP, REST APIs
+* **Backend:** Node.js, Express.js, REST APIs
 * **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap
 * **Mobile:** React Native, Flutter, Android
 * **Cloud/DB:** AWS (EC2, S3), MySQL, MS SQL Server
