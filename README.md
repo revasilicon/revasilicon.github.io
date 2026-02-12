@@ -6,7 +6,7 @@
 
 * **Backend:** Node.js, Express.js, Core PHP, REST APIs
 * **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap
-* **Mobile:** Android, React Native
+* **Mobile:** React Native, Flutter, Android
 * **Cloud/DB:** AWS (EC2, S3), MySQL, MS SQL Server
 
 ## 🏆 Key Project Highlights
